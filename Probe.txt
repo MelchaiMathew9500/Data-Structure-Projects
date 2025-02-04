@@ -1,0 +1,88 @@
+# Probe 1
+Explorer-1
+1001
+10
+5
+100
+200
+
+
+# Probe 2
+Voyager
+1002
+12
+6
+150
+250
+
+
+# Probe 3
+Pioneer
+1003
+8
+4
+200
+300
+
+
+# Probe 4
+New Horizons
+1004
+15
+7
+180
+260
+
+
+# Probe 5
+Cassini
+1005
+11
+6
+140
+220
+
+
+# Probe 6
+Galileo
+1006
+14
+8
+170
+230
+
+
+# Probe 7
+Juno
+1007
+13
+5
+160
+240
+
+
+# Probe 8
+Kepler
+1008
+16
+9
+210
+310
+
+
+# Probe 9
+Curiosity
+1009
+9
+5
+120
+180
+
+
+# Probe 10
+Perseverance
+1010
+17
+10
+250
+350
